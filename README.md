@@ -12,5 +12,13 @@ I hope this submission format is acceptable. Please let me know if you need anyt
 Thank you for your guidance and understanding throughout.
 
 Best regards,
+
 Riddhiman Rakshit
+
+GEMINI_API_KEY=AIzaSyCowIoN_7JXL8X2RuQ6frKn7D9k_jclAMA
+NEWS_API_KEY=cde2edfd98ec4687a6a1f75008d0d86b
+
+The abovae is my .env 
+
+
 
